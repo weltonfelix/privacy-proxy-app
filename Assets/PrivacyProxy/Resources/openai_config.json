@@ -1,0 +1,6 @@
+{
+    "model": "gpt-5.4-mini",
+    "reasoningEffort": "low",
+    "timeoutSeconds": 60,
+    "maxOutputTokens": 400
+}

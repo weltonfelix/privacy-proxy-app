@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cc76b2f3249d546e6a16255aac16d12d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f22407ba6b4157b4a93d0a670bd3dd57, type: 3}
+  dynamicDimConfigs:
+  - name: num_points
+    size: -1

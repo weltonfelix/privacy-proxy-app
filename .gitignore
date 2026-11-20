@@ -1,0 +1,29 @@
+# Unity (generated, never share)
+Library/
+Temp/
+Logs/
+obj/
+Build/
+Builds/
+UserSettings/
+*.csproj
+*.sln
+*.slnx
+.vs/
+.vscode/
+*.apk
+*_DoNotShip/
+mono_crash*
+
+# Native build output
+Native/build*/
+
+# Qwen model files (large, downloaded separately)
+QwenModels/
+*.gguf
+
+# Captures saved when running in the Editor
+/Saida/
+
+# OpenAI API key (never share)
+openai_key.txt
